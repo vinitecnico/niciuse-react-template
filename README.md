@@ -11,7 +11,7 @@ For more information, please refer to:
 
 ### github
 ```
-    npx create-react-app my-app --use-npm --template git+ssh://git@github.com/vinitecnico/niciuse-react-template.git
+    npx create-react-app my-app --template https://github.com/vinitecnico/niciuse-react-template
 ```
 
 ### local
