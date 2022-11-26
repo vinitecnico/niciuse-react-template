@@ -1,5 +1,5 @@
 {
-    "name": "niciuse-template",
+    "name": "cra-template-niciuse",
     "version": "1.2.0",
     "keywords": [
       "react",
@@ -9,8 +9,7 @@
     "description": "The base template for Create React App.",
     "repository": {
       "type": "git",
-      "url": "https://github.com/vinitecnico/niciuse-react-template",
-      "directory": "packages/niciuse-template"
+      "url": "https://github.com/vinitecnico/niciuse-react-template.git"
     },
     "license": "MIT",
     "engines": {
